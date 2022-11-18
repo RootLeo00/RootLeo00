@@ -1,5 +1,5 @@
 ### Hello world!
-<img src="https://giphy.com/embed/kQvyCMS08izkI" width="480" height="360" frameBorder="0">
+<iframe src="https://giphy.com/embed/kQvyCMS08izkI" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kQvyCMS08izkI">via GIPHY</a></p>
 
 
 <!--
