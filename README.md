@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello world!
+<img align="right" src="https://giphy.com/embed/kQvyCMS08izkI" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
+
 
 <!--
 **RootLeo00/RootLeo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
