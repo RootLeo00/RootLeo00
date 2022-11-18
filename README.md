@@ -17,4 +17,5 @@
 <p align="left">
    <a href="www.linkedin.com/in/caterina-leonelli-7985b5228"> 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /> </a>
+   <img src="https://img.shields.io/github/followers/rootleo00.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rootleo00?tab=followers" />
 </p>
