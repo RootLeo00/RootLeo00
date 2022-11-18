@@ -8,7 +8,7 @@
 
 <h3 align="left">OS:</h3>
 <p align="left"> 
- <h5>Currently: <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></h5>
+ Currently: <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
  </br>
-  <h5>Saltuary (hope so): <a href="https://www.microsoft.com/it-it/windows/windows-11" target="_blank"> <img src="https://logos.fandom.com/wiki/File:Windows_11.svg" alt="windows" width="40" height="40" /> </a></h5>
+Saltuary (hope so): <a href="https://www.microsoft.com/it-it/windows/windows-11" target="_blank"> <img src="https://logos.fandom.com/wiki/File:Windows_11.svg" alt="windows" width="40" height="40" /> </a>
  </p>
