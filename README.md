@@ -1,6 +1,6 @@
 ### Hello world!
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes) 
- <img align="left" width="480" height="360" src="https://64.media.tumblr.com/9dd582db50e03c52bc309f043f7746ab/tumblr_muh0a5I1hr1qmpmfmo1_500.gifv">
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote="Hello World!"&type=vertical&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes) 
+ <img align="right" width="480" height="360" src="https://64.media.tumblr.com/9dd582db50e03c52bc309f043f7746ab/tumblr_muh0a5I1hr1qmpmfmo1_500.gifv">
 
 <!--
 **RootLeo00/RootLeo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
