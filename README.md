@@ -1,6 +1,11 @@
-### Hello world!
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=HelloWorld!&type=vertical&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes) 
  <img align="right" width="480" height="360" src="https://64.media.tumblr.com/9dd582db50e03c52bc309f043f7746ab/tumblr_muh0a5I1hr1qmpmfmo1_500.gifv">
+
+<h1 align="left">Hello World👋, I'm Leo</h1>
+<h3 align="left">a computer science engineer</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <!--
 **RootLeo00/RootLeo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
