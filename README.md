@@ -1,9 +1,14 @@
+<div align="left">
 ```diff
-@@ Hello World👋, I'm Leo @@
+Hello World, I'm Leo  
 ```
+</div>
+<div align="right>
+ <img align="right" width="10%" height="10%" src="./gif/cat-rolling.jpg">
+</div>
 
 ```bash 
-Computer Science Engineer at University of Bologna 
+Computer Science Engineer @ University of Bologna 
 ```
 <p align="right"> 
  <img align="right" width="240" height="180" src="https://64.media.tumblr.com/9dd582db50e03c52bc309f043f7746ab/tumblr_muh0a5I1hr1qmpmfmo1_500.gifv">
