@@ -1,8 +1,7 @@
- <img align="right" width="480" height="360" src="https://64.media.tumblr.com/9dd582db50e03c52bc309f043f7746ab/tumblr_muh0a5I1hr1qmpmfmo1_500.gifv">
+ <img align="right" width="240" height="180" src="https://64.media.tumblr.com/9dd582db50e03c52bc309f043f7746ab/tumblr_muh0a5I1hr1qmpmfmo1_500.gifv">
 <h1 align="left">Hello World👋, I'm Leo</h1>
 <h5 align="left">...a learner, a computer science engineer...</h5>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://github.com/RootLeo00">
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootLeo00&layout=compact&langs_count=10&hide_progress=false&theme=radical">
