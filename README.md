@@ -2,12 +2,11 @@
 <h1 align="left">Hello World👋, I'm Leo</h1>
 <h5 align="left">...a learner, a computer science engineer...</h5>
 
-<p align="left"> 
+
 <a href="https://github.com/RootLeo00">
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootLeo00&layout=compact&langs_count=10&hide_progress=false&theme=radical">
+<img align="left" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootLeo00&layout=compact&langs_count=10&hide_progress=false&theme=radical">
 </a>
-  
-</p>
+
 
 <h3 align="left">OS:</h3>
 <p align="left"> 
