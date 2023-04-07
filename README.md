@@ -1,6 +1,6 @@
 
 
-## Hello World <img align="right" width="1%" height="1%" src="./gif/cat-pwn.gif"> I'm Leo 
+## Hello World ![Alt Text](./gif/cat-pwn.gif) I'm Leo 
 
 
 <div align="right">
