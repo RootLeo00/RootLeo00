@@ -1,5 +1,10 @@
-## Hello World👋, I'm Leo
+```diff
+@@ Hello World👋, I'm Leo @@
+```
 
+```bash 
+Computer Science Engineer at University of Bologna 
+```
 <p align="right"> 
  <img align="right" width="240" height="180" src="https://64.media.tumblr.com/9dd582db50e03c52bc309f043f7746ab/tumblr_muh0a5I1hr1qmpmfmo1_500.gifv">
   </p>
@@ -25,3 +30,5 @@
  <a href="https://github.com/rootleo00?tab=followers">
    <img src="https://img.shields.io/github/followers/rootleo00.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rootleo00?tab=followers" /> </a>
 </p>
+
+
