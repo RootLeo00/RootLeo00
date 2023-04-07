@@ -4,7 +4,6 @@
  <img align="right" width="240" height="180" src="https://64.media.tumblr.com/9dd582db50e03c52bc309f043f7746ab/tumblr_muh0a5I1hr1qmpmfmo1_500.gifv">
   </p>
 
-##
 <p align="left"> 
 <a href="https://github.com/RootLeo00">
 <img align="left" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootLeo00&layout=compact&langs_count=10&hide_progress=false&theme=radical">
