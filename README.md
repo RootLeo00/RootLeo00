@@ -1,10 +1,13 @@
-<div align="left">
+
 ```diff
 Hello World, I'm Leo  
 ```
+
+<div align="right">
+ <img align="right" width="10%" height="10%" src="./gif/cat-pwn.gif">
 </div>
-<div align="right>
- <img align="right" width="10%" height="10%" src="./gif/cat-rolling.jpg">
+<div align="right">
+ <img align="right" width="10%" height="10%" src="./gif/cat-rolling.gif">
 </div>
 
 ```bash 
