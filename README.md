@@ -1,6 +1,6 @@
 ## Hello World <img width="5%" height="5%" src="./gif/cat-pwn.gif"> I'm Leo 
 
-```zsh  
+```console  
 ~/github/RootLeo00 main ...................................... py base 02:15:38
 >_ Computer Science Engineer @ University of Bologna 
 ```
