@@ -1,14 +1,6 @@
 ## Hello World <img width="5%" height="5%" src="./gif/cat-pwn.gif"> I'm Leo 
 
-
-<div align="right">
-
-</div>
-<div align="right">
- <img align="right" width="240" height="180" src="./gif/cat-rolling.jpg">
-</div>
-
-```javascript 
+```zsh  
 Computer Science Engineer @ University of Bologna 
 ```
 <p align="right"> 
