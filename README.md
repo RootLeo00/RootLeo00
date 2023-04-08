@@ -1,6 +1,6 @@
 ## Hello World <img width="5%" height="5%" src="./gif/cat-pwn.gif"> I'm Leo 
 
-```console  
+```zsh  
 >_ Computer Science Engineer @ University of Bologna 
 ```
 <p align="right"> 
