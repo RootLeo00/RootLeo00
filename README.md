@@ -1,6 +1,6 @@
 
 
-## Hello World ![Alt Text](./gif/cat-pwn.gif) I'm Leo 
+## Hello World ![Alt Tex][width="10%", height="10%"](./gif/cat-pwn.gif) I'm Leo 
 
 
 <div align="right">
@@ -10,7 +10,7 @@
  <img align="right" width="240" height="180" src="./gif/cat-rolling.jpg">
 </div>
 
-```bash 
+```bash f 
 Computer Science Engineer @ University of Bologna 
 ```
 <p align="right"> 
