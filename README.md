@@ -1,7 +1,7 @@
 ## Hello World <img width="5%" height="5%" src="./gif/cat-pwn.gif"> I'm Leo 
 
-```console  
-@~/github/RootLeo00 main ⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅ py base 02:15:38
+```ruby  
+~/github/RootLeo00 main ⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅ py base 02:15:38
 >_ python run.py 
 ```
 <p align="right"> 
