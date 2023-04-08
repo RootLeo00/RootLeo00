@@ -1,12 +1,9 @@
-## Hello World <img width="5%" height="5%" src="./gif/cat-pwn.gif"> I'm Leo 
+## Hello World <img width="5%" height="5%" src="./gif/cat-pwn.gif"> I'm Leo <img width="5%" height="5%" src="https://64.media.tumblr.com/9dd582db50e03c52bc309f043f7746ab/tumblr_muh0a5I1hr1qmpmfmo1_500.gifv">
 
 ```ruby  
 ~/github/RootLeo00 main ⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅ py base 02:15:38
 > python run.py 
 ```
-<p align="right"> 
- <img align="right" width="240" height="180" src="https://64.media.tumblr.com/9dd582db50e03c52bc309f043f7746ab/tumblr_muh0a5I1hr1qmpmfmo1_500.gifv">
-  </p>
 
 <p align="left"> 
 <a href="https://github.com/RootLeo00">
