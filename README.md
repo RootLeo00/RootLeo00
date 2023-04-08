@@ -1,7 +1,7 @@
 ## Hello World <img width="5%" height="5%" src="./gif/cat-pwn.gif"> I'm Leo 
 
 ```zsh  
-~---------------------------------------------------------------------py base 00:00:00
+~/github/RootLeo00 main ...................................... py base 02:15:38
 >_ Computer Science Engineer @ University of Bologna 
 ```
 <p align="right"> 
