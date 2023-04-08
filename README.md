@@ -8,7 +8,7 @@
  <img align="right" width="240" height="180" src="./gif/cat-rolling.jpg">
 </div>
 
-```bash 
+```diff 
 Computer Science Engineer @ University of Bologna 
 ```
 <p align="right"> 
