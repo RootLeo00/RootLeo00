@@ -1,6 +1,6 @@
 
 
-## Hello World ![Alt Tex][width="10%", height="10%"](./gif/cat-pwn.gif) I'm Leo 
+## Hello World ![Alt Tex](./gif/cat-pwn.gif) I'm Leo 
 
 
 <div align="right">
