@@ -1,6 +1,6 @@
 
 
-## Hello World, I'm Leo <img width="5%" height="5%" src="./gif/cat-pwn.gif"> 
+## Hello World <img width="5%" height="5%" src="./gif/cat-pwn.gif">  I'm Leo <img width="5%" height="5%" src="./gif/cat-pwn.gif"> 
 
 
 <div align="right">
