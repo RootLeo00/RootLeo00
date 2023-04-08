@@ -1,5 +1,3 @@
-
-
 ## Hello World <img width="5%" height="5%" src="./gif/cat-pwn.gif"> I'm Leo 
 
 
@@ -10,7 +8,7 @@
  <img align="right" width="240" height="180" src="./gif/cat-rolling.jpg">
 </div>
 
-```bash f 
+```bash 
 Computer Science Engineer @ University of Bologna 
 ```
 <p align="right"> 
