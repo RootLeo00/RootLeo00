@@ -5,7 +5,12 @@
 > python run.py 
 ```
 
-## Tools
+<div> 
+<img alt="profile-detail" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootLeo00&theme=tokyonight">
+ </div>
+
+
+
 <div> 
 <img alt="languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RootLeo00&layout=compact&langs_count=10&hide_progress=false&theme=radical">
  </div>
