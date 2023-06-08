@@ -15,14 +15,14 @@
 <img alt="languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RootLeo00&layout=compact&langs_count=10&hide_progress=false&theme=tokyonight">
  </div>
 
-## OS
+### OS
 <div>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <a href="https://www.microsoft.com/it-it/windows/windows-11" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40" /> </a>
  </div>
  
  
-## Connect with me
+### Connect with me
 <p align="left">
    <a href="https://www.linkedin.com/in/caterina-leonelli-7985b5228"> 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /> </a>
