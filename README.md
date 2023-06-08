@@ -12,7 +12,7 @@
 
 
 <div> 
-<img alt="languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RootLeo00&layout=compact&langs_count=10&hide_progress=false&theme=radical">
+<img alt="languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RootLeo00&layout=compact&langs_count=10&hide_progress=false&theme=tokyonight">
  </div>
 
 ## OS
