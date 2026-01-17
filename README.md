@@ -1,33 +1,48 @@
-## Hello World I'm Leo <img width="10%" height="10%" src="https://64.media.tumblr.com/9dd582db50e03c52bc309f043f7746ab/tumblr_muh0a5I1hr1qmpmfmo1_500.gifv">
+<div align="center">
 
-```ruby  
-~/github/RootLeo00 main ⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅ py base 02:15:38
-> python run.py 
-```
+  <h4><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"> hello world, it's leo <img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"> </h4>
+  <img width="5%" src="https://64.media.tumblr.com/9dd582db50e03c52bc309f043f7746ab/tumblr_muh0a5I1hr1qmpmfmo1_500.gifv">
+</div>
 
-<div> 
-<img alt="profile-detail" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootLeo00&theme=tokyonight">
- </div>
-
-
-
-<div> 
-<img alt="languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RootLeo00&layout=compact&langs_count=10&hide_progress=false&theme=tokyonight">
- </div>
-
-### OS
-<div>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<a href="https://www.microsoft.com/it-it/windows/windows-11" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40" /> </a>
- </div>
- 
- 
-### Connect with me
-<p align="left">
-   <a href="https://www.linkedin.com/in/caterina-leonelli-7985b5228"> 
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /> </a>
- <a href="https://github.com/rootleo00?tab=followers">
-   <img src="https://img.shields.io/github/followers/rootleo00.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rootleo00?tab=followers" /> </a>
+<p align="center">
+  <code><font color="#7aa2f7">~$:</font><font color="#bb9af7">curious</font> about everything</code><br>
+  <code><font color="#7aa2f7">~$:</font><font color="#bb9af7">open</font> sourcing around</code><br>
+  <code><font color="#7aa2f7">~$:</font><font color="#bb9af7">cat</font> lover</code> 
 </p>
 
-<img width="5%" height="5%" src="./gif/hearts.gif"><img width="5%" height="5%" src="./gif/hearts.gif"><img width="5%" height="5%" src="./gif/hearts.gif"><img width="5%" height="5%" src="./gif/hearts.gif"><img width="5%" height="5%" src="./gif/hearts.gif"><img width="5%" height="5%" src="./gif/hearts.gif"><img width="5%" height="5%" src="./gif/hearts.gif"><img width="5%" height="5%" src="./gif/hearts.gif"><img width="5%" height="5%" src="./gif/hearts.gif"><img width="5%" height="5%" src="./gif/hearts.gif"><img width="5%" height="5%" src="./gif/hearts.gif"><img width="5%" height="5%" src="./gif/hearts.gif"><img width="5%" height="5%" src="./gif/hearts.gif">
+<div align="center">
+  <img alt="profile-detail" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootLeo00&theme=tokyonight" style="border-radius: 15px;" width="55%">
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <p>
+    <img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif"><img width="3%" src="./gif/hearts.gif">
+  </p>
+  <p align="center"> 
+</p> 
+
+  <!-- <img src="./img/coding_penguin.jpg" style="border-radius: 15px;" width="35%" title="try GNU/Linux, it's fun :D"> </br>
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=2&section=footer" /> -->
+</div>
+
+```ruby  
+~/github/RootLeo00 main $ cat << EOF > about_me.txt ⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅ py base 02:15:38
+                      +-------------------------------------------------------+
+                      |  I am a DevOps Engineer working in Italy.             |
+                      |                                                       |
+                      |  I love to use open source stuff and I am constantly  |
+                      |  learning and crafting stuff in order to someday give |
+                      |  back to the community.                               |
+                      |                                                       |
+                      |  On my freetime, I architect homelab environments     |
+                      |  for my family and I make projects with friends.      |
+                      |                                                       |
+                      |  My current goals are:                                |
+                      |    - improve my homelab                             |
+                      |    - learn Kubernetes more in depth                | 
+                      |    - hop to a new distro                              |
+                      +-------------------------------------------------------+
+EOF
+```
