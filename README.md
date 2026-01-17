@@ -40,8 +40,8 @@
                       |  for my family and I make projects with friends.      |
                       |                                                       |
                       |  My current goals are:                                |
-                      |    - improve my homelab                             |
-                      |    - learn Kubernetes more in depth                | 
+                      |    - improve my homelab                               |
+                      |    - learn Kubernetes more in depth                   | 
                       |    - hop to a new distro                              |
                       +-------------------------------------------------------+
 EOF
