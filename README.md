@@ -28,7 +28,7 @@
 </div>
 
 ```ruby  
-~/github/RootLeo00 main $ cat << EOF > about_me.txt ⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅ py base 02:15:38
+~/github/RootLeo00 main $ cat << EOF > about_me.txt ⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅ py base 02:15:38
                       +-------------------------------------------------------+
                       |  I am a DevOps Engineer working in Italy.             |
                       |                                                       |
